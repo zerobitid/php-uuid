@@ -1,5 +1,5 @@
 {
-    "name": "zerobit/uuid",
+    "name": "zerobit/php-uuid",
     "description": "UUID wrapper library",
     "type": "library",
     "require-dev": {
